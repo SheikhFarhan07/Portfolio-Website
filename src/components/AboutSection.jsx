@@ -16,16 +16,18 @@ export const AboutSection = () => {
             </h3>
 
             <p className="text-muted-foreground">
-              With over 5 years of experience in web development, I specialize
-              in creating responsive, accessible, and performant web
-              applications using modern technologies.
+              I am currently focused on learning and applying machine learning and artificial intelligence, with a strong interest in understanding how intelligent systems work beyond just theory. 
+              I enjoy experimenting with data, models, and code to see how abstract ideas translate into real outcomes.
             </p>
 
             <p className="text-muted-foreground">
-              I'm passionate about creating elegant solutions to complex
-              problems, and I'm constantly learning new technologies and
-              techniques to stay at the forefront of the ever-evolving web
-              landscape.
+              My background in problem solving and programming has shaped the way I approach challenges, and I now apply that mindset while working on AI/ML projects as well as modern web applications. 
+              Web development allows me to build interfaces and systems around my ideas, turning experiments into usable tools.
+            </p>
+
+            <p className="text-muted-foreground">
+              I am driven by curiosity more than checklists. I like exploring new concepts and continuously refining how I think about technology. 
+              For me, learning is not just about acquiring skills, but about developing clarity in how and why systems are built.
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 pt-4 justify-center">
@@ -64,10 +66,9 @@ export const AboutSection = () => {
                   <User className="h-6 w-6 text-primary" />
                 </div>
                 <div className="text-left">
-                  <h4 className="font-semibold text-lg">UI/UX Design</h4>
+                  <h4 className="font-semibold text-lg">AI & Machine Learning</h4>
                   <p className="text-muted-foreground">
-                    Designing intuitive user interfaces and seamless user
-                    experiences.
+                    Learning and applying machine learning techniques to understand patterns, make predictions, and build intelligent systems.
                   </p>
                 </div>
               </div>
@@ -79,10 +80,9 @@ export const AboutSection = () => {
                 </div>
 
                 <div className="text-left">
-                  <h4 className="font-semibold text-lg">Project Management</h4>
+                  <h4 className="font-semibold text-lg">Competitive Programming</h4>
                   <p className="text-muted-foreground">
-                    Leading projects from conception to completion with agile
-                    methodologies.
+                    Gained strong problem solving skills through competitive programming, developing a smart approach to algorithms and data structures.
                   </p>
                 </div>
               </div>
