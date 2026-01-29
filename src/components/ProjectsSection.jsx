@@ -11,21 +11,21 @@ const projects = [
   },
   {
     id: 2,
-    title: "Orbit Analytics Dashboard",
+    title: "Crisis Translator",
     description:
-      "Interactive analytics dashboard with data visualization and filtering capabilities.",
+      "Speak their language when it matters most!",
     image: "/projects/project2.png",
-    tags: ["TypeScript", "D3.js", "Next.js"],
+    tags: ["Gemini API", "React", "Computer Vision"],
     demoUrl: "#",
     githubUrl: "#",
   },
   {
     id: 3,
-    title: "E-commerce Platform",
+    title: "Agentic Pharma",
     description:
-      "Full-featured e-commerce platform with user authentication and payment processing.",
+      "Coming Soon...",
     image: "/projects/project3.png",
-    tags: ["React", "Node.js", "Stripe"],
+    tags: ["Agentic AI", "Python", "FastAPI"],
     demoUrl: "#",
     githubUrl: "#",
   },
